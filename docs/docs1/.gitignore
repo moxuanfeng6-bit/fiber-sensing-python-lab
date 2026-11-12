@@ -1,0 +1,12 @@
+# Local Python environment
+.venv/
+
+# Editor settings
+.idea/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
